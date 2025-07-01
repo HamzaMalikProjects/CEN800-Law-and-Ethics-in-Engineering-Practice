@@ -8,9 +8,7 @@
 
 ## 📘 Overview
 
-This repository serves as a comprehensive and professionally curated collection of lecture-based study notes, legal documents, and ethical frameworks for the course **CEN800 – Law and Ethics in Engineering Practice** at **Toronto Metropolitan University**.
-
-It is intended to support engineering students in understanding the **legal, ethical, and professional obligations** of practicing engineers in Canada and globally.
+This repository serves as a comprehensive and professionally curated collection of lecture-based study notes, legal documents, and ethical frameworks for the course **CEN800 – Law and Ethics in Engineering Practice** at **Toronto Metropolitan University**. It is intended to support engineering students in understanding the **legal, ethical, and professional obligations** of practicing engineers in Canada and globally.
 
 Topics covered include:
 - Canadian legal system & regulatory framework
