@@ -37,7 +37,7 @@ Topics covered include:
 | `Bonds, Arbitration, Lien Legislation, and Risk Management in Construction Law.pdf` | Legal frameworks for construction professionals and project delivery        |
 | `Limitation Periods.pdf`                                 | Overview of legal deadlines and procedural constraints                      |
 | `Proof & Privilege.pdf`                                  | Legal admissibility, burden of proof, and privilege concepts in litigation  |
-| `CEN800 Course Outline.pdf`                              | Official syllabus and topic structure for CEN800                            |
+| `CEN800 Course Outline.pdf`                              | Official syllabus for CEN800 - Law and Ethics                           |
 
 ---
 
